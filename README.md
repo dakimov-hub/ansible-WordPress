@@ -1,2 +1,2 @@
 # ansible-WordPress
-WordPress
+WordPress up by ansible.
